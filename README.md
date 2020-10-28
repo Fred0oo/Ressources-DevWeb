@@ -7,18 +7,18 @@ Divers ressources concernant le développement web
     https://www.vox.com/a/internet-maps
 
 # Liens utiles :
-   https://developer.mozilla.org/
-   https://www.w3schools.com/
+   https://developer.mozilla.org/ <br>
+   https://www.w3schools.com/<br>
   
   # CSS
-   https://css-tricks.com/almanac/
-   http://paletton.com/
-   https://specificity.keegan.st/
-   https://fonts.google.com/
-   https://www.cleancss.com/css-minify/
-   https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-   http://flexboxfroggy.com/#fr
+   https://css-tricks.com/almanac/<br>
+   http://paletton.com/<br>
+   https://specificity.keegan.st/<br>
+   https://fonts.google.com/<br>
+   https://www.cleancss.com/css-minify/<br>
+   https://css-tricks.com/snippets/css/a-guide-to-flexbox/<br>
+   http://flexboxfroggy.com/#fr<br>
   
   # JavaScript
-    https://www.w3schools.com/jsref/ (attributs des objets JS)
+    https://www.w3schools.com/jsref/ (attributs des objets JS)<br>
   
