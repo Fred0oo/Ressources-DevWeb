@@ -7,25 +7,25 @@ Divers ressources concernant le développement web
     https://www.vox.com/a/internet-maps
 
 # Liens utiles :
-   https://developer.mozilla.org/ <br>
-   https://www.w3schools.com/<br>
+    https://developer.mozilla.org/
+    https://www.w3schools.com/
   
   # CSS
-   https://css-tricks.com/almanac/<br>
-   http://paletton.com/<br>
-   https://specificity.keegan.st/<br>
-   https://fonts.google.com/<br>
-   https://www.cleancss.com/css-minify/<br>
-   https://css-tricks.com/snippets/css/a-guide-to-flexbox/<br>
-   http://flexboxfroggy.com/#fr<br>
+    https://css-tricks.com/almanac/
+    http://paletton.com/
+    https://specificity.keegan.st/
+    https://fonts.google.com/
+    https://www.cleancss.com/css-minify/
+    https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+    http://flexboxfroggy.com/#fr
   
   # JavaScript
-    https://www.w3schools.com/jsref/ (attributs des objets JS)<br>
-    https://sdras.github.io/object-explorer/<br>
+    https://www.w3schools.com/jsref/ (attributs des objets JS)
+    https://sdras.github.io/object-explorer/
     
   # DOM events
-    https://developer.mozilla.org/en-US/docs/Web/Events<br>
-    https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes<br>
+    https://developer.mozilla.org/en-US/docs/Web/Events
+    https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes
   
  
     
