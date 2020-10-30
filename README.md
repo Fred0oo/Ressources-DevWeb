@@ -21,4 +21,11 @@ Divers ressources concernant le développement web
   
   # JavaScript
     https://www.w3schools.com/jsref/ (attributs des objets JS)<br>
+    https://sdras.github.io/object-explorer/<br>
+    
+  # DOM events
+    https://developer.mozilla.org/en-US/docs/Web/Events<br>
+    https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes<br>
   
+ 
+    
