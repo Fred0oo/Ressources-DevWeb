@@ -1,13 +1,13 @@
 # Ressources-DevWeb
-Divers ressources concernant le développement web
+    Divers ressources concernant le développement web
     https://zero-to-mastery.github.io/resources/
     
-# Ressources générales :
+# Ressources générales
     https://www.submarinecablemap.com/
     commande : traceroute www.google.com
     https://www.vox.com/a/internet-maps
 
-# Liens utiles :
+# Liens utiles
     https://developer.mozilla.org/
     https://www.w3schools.com/
   
