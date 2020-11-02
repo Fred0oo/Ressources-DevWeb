@@ -1,6 +1,7 @@
 # Ressources-DevWeb
     Divers ressources concernant le développement web
     https://zero-to-mastery.github.io/resources/
+    https://robohash.org/ (fun)
     
 # Ressources générales
     https://www.submarinecablemap.com/
